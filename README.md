@@ -22,11 +22,11 @@
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/actix-rhai-arithmetic-api.git
+   git clone https://github.com/nitindahiya199/actix-rhai-arithmetic-api.git
    cd actix-rhai-arithmetic-api
    ```
 
-   <p>🌐 API Endpoints</p>
+<p>🌐 API Endpoints</p>
 <li> Multiply: GET /multiply/{num1}/{num2}</li>
 <li> Add: GET /add/{num1}/{num2}</li>
 <li> Subtract: GET /subtract/{num1}/{num2}</li>
